@@ -1,0 +1,17 @@
+{
+	"ulid": "01FT1K8VTSZ456BBTYWFR67737",
+	"minTime": 1642451563387,
+	"maxTime": 1642456800000,
+	"stats": {
+		"numSamples": 228603,
+		"numSeries": 787,
+		"numChunks": 2129
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01FT1K8VTSZ456BBTYWFR67737"
+		]
+	},
+	"version": 1
+}
